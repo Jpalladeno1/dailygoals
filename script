@@ -1,0 +1,8 @@
+success = "be great"
+while True: 
+lead_your_success == ('Today I will accomplish?')
+  if lead_your_success == ('be great'):
+    print("I am leading my success")
+     break
+  else: 
+    print("What else will I accomplish today?") 
