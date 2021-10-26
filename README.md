@@ -1,2 +1,2 @@
 # dailygoals
-Just playing around w/ Pythong
+Just playing around w/ Python
